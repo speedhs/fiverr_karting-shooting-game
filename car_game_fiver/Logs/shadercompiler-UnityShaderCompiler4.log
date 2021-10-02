@@ -1,0 +1,394 @@
+Base path: '/home/harsh/Unity/Hub/Editor/2021.1.21f1/Editor/Data', plugins path '/home/harsh/Unity/Hub/Editor/2021.1.21f1/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+
+Cmd: compileComputeKernel
+  insize=12065 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/Generic.compute kernel=ScaleBias_Loop_NHWC cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<CHANNELS_FIRST=0>,<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at Generic.compute(26): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=12065 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/Generic.compute kernel=Upsample2D_NCHW cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<CHANNELS_FIRST=1>,<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at Generic.compute(26): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=12065 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/Generic.compute kernel=ReshapeFromNHWCModel_NCHW cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<CHANNELS_FIRST=1>,<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at Generic.compute(26): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=72887 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/Dense.compute kernel=DenseTiled16x16 cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at Dense.compute(14): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=11921 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/Broadcast.compute kernel=BroadcastMul_NHWC cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<CHANNELS_FIRST=0>,<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at Broadcast.compute(33): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=11921 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/Broadcast.compute kernel=BroadcastMax_NHWC cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<CHANNELS_FIRST=0>,<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at Broadcast.compute(33): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=11921 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/Broadcast.compute kernel=BroadcastLess_NHWC cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<CHANNELS_FIRST=0>,<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at Broadcast.compute(33): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=11921 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/Broadcast.compute kernel=BroadcastLogicalAnd_NHWC cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<CHANNELS_FIRST=0>,<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at Broadcast.compute(33): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=79184 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/Conv.compute kernel=Conv2DKernelKxK_T16x16_R4x4_NCHW cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<CHANNELS_FIRST=1>,<BLOCK_SIZE=4>,<SUFFIX=KernelKxK_T16x16_R>,<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at Conv.compute(50): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=79184 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/Conv.compute kernel=Conv2DKernelKxK_LaxC4StrictK16_T2x32_R8x8_NCHW cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<CHANNELS_FIRST=1>,<BLOCK_SIZE=8>,<KERNEL_PER_TG=16>,<SUFFIX=KernelKxK_LaxC4StrictK16_T2x32_R>,<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at Conv.compute(50): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=79184 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/Conv.compute kernel=Conv2DTrans_KernelCached_K5x5_T16x16_NCHW cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<CHANNELS_FIRST=1>,<MAX_KERNEL_SIZE=5>,<GROUP_SIZE_X=16>,<GROUP_SIZE_Y=16>,<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at Conv.compute(50): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=18269 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/Pool.compute kernel=AvgPool2DReduce_NHWC cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<CHANNELS_FIRST=0>,<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at Pool.compute(17): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=18269 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/Pool.compute kernel=AvgVariancePool2DReduce_NHWC cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<CHANNELS_FIRST=0>,<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at Pool.compute(17): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=66564 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/BarracudaReferenceImpl.compute kernel=DepthwiseConv2D_NCHW cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<CHANNELS_FIRST=1>,<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at BarracudaReferenceImpl.compute(156): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=66564 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/BarracudaReferenceImpl.compute kernel=ResampleBilinear2D_NCHW cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<CHANNELS_FIRST=1>,<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at BarracudaReferenceImpl.compute(156): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=66564 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/BarracudaReferenceImpl.compute kernel=Unstride2D_NCHW cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<CHANNELS_FIRST=1>,<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at BarracudaReferenceImpl.compute(156): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=66564 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/BarracudaReferenceImpl.compute kernel=MaxPool2D_NCHW cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<CHANNELS_FIRST=1>,<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at BarracudaReferenceImpl.compute(156): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=66564 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/BarracudaReferenceImpl.compute kernel=GlobalAvgVariancePool2D_NCHW cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<CHANNELS_FIRST=1>,<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at BarracudaReferenceImpl.compute(156): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=66564 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/BarracudaReferenceImpl.compute kernel=Relu_NCHW cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<CHANNELS_FIRST=1>,<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at BarracudaReferenceImpl.compute(156): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=66564 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/BarracudaReferenceImpl.compute kernel=Floor_NCHW cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<CHANNELS_FIRST=1>,<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at BarracudaReferenceImpl.compute(156): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=66564 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/BarracudaReferenceImpl.compute kernel=LogSoftmax_NCHW cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<CHANNELS_FIRST=1>,<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at BarracudaReferenceImpl.compute(156): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=66564 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/BarracudaReferenceImpl.compute kernel=Elu_NCHW cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<CHANNELS_FIRST=1>,<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at BarracudaReferenceImpl.compute(156): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=66564 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/BarracudaReferenceImpl.compute kernel=Exp_NCHW cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<CHANNELS_FIRST=1>,<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at BarracudaReferenceImpl.compute(156): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=66564 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/BarracudaReferenceImpl.compute kernel=Clip_NCHW cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<CHANNELS_FIRST=1>,<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at BarracudaReferenceImpl.compute(156): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=66564 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/BarracudaReferenceImpl.compute kernel=BroadcastMul_NHWC cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<CHANNELS_FIRST=0>,<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at BarracudaReferenceImpl.compute(156): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=66564 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/BarracudaReferenceImpl.compute kernel=BroadcastMax_NHWC cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<CHANNELS_FIRST=0>,<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at BarracudaReferenceImpl.compute(156): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=66564 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/BarracudaReferenceImpl.compute kernel=BroadcastLess_NHWC cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<CHANNELS_FIRST=0>,<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at BarracudaReferenceImpl.compute(156): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=66564 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/BarracudaReferenceImpl.compute kernel=BroadcastLogicalAnd_NHWC cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<CHANNELS_FIRST=0>,<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at BarracudaReferenceImpl.compute(156): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=66564 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/BarracudaReferenceImpl.compute kernel=ReduceMax_NHWC cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<CHANNELS_FIRST=0>,<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at BarracudaReferenceImpl.compute(156): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=66564 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/BarracudaReferenceImpl.compute kernel=TextureToTensor_NHWC cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<CHANNELS_FIRST=0>,<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at BarracudaReferenceImpl.compute(156): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=66564 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/BarracudaReferenceImpl.compute kernel=Pad2DEdge_NHWC cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<CHANNELS_FIRST=0>,<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at BarracudaReferenceImpl.compute(156): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=66564 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/BarracudaReferenceImpl.compute kernel=Gather_NHWC cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<CHANNELS_FIRST=0>,<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at BarracudaReferenceImpl.compute(156): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=4426 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/Pad.compute kernel=Border2D_NHWC cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<CHANNELS_FIRST=0>,<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at Pad.compute(9): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=33853 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/Activation.compute kernel=Ceil_Flat cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at Activation.compute(173): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=33853 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/Activation.compute kernel=Relu_Flat cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at Activation.compute(173): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=33853 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/Activation.compute kernel=Selu_Loop cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at Activation.compute(173): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=33853 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/Activation.compute kernel=Sigmoid_FlatStrict cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at Activation.compute(173): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=33853 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/Activation.compute kernel=Elu_Flat cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at Activation.compute(173): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=33853 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/Activation.compute kernel=Elu_Loop cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at Activation.compute(173): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=33853 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/Activation.compute kernel=Log_FlatStrict cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at Activation.compute(173): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=33853 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/Activation.compute kernel=PRelu_Flat cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at Activation.compute(173): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=33853 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/Activation.compute kernel=Relu_NHWC cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<CHANNELS_FIRST=0>,<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at Activation.compute(173): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=33853 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/Activation.compute kernel=Relu_CNyx_NHWC cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<CHANNELS_FIRST=0>,<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at Activation.compute(173): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=33853 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/Activation.compute kernel=PRelu_CNyx2_NHWC cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<CHANNELS_FIRST=0>,<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at Activation.compute(173): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=33853 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/Activation.compute kernel=Tanh_Nyxc_NHWC cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<CHANNELS_FIRST=0>,<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at Activation.compute(173): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=33853 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/Activation.compute kernel=Sigmoid_Nyxc_NHWC cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<CHANNELS_FIRST=0>,<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at Activation.compute(173): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=33853 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/Activation.compute kernel=LeakyRelu_Nyxc_NHWC cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<CHANNELS_FIRST=0>,<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at Activation.compute(173): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=33853 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/Activation.compute kernel=Exp_NCHW cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<CHANNELS_FIRST=1>,<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at Activation.compute(173): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=33853 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/Activation.compute kernel=Sqrt_NCHW cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<CHANNELS_FIRST=1>,<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at Activation.compute(173): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=33853 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/Activation.compute kernel=Softmax_NCHW cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<CHANNELS_FIRST=1>,<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at Activation.compute(173): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=12065 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/Generic.compute kernel=ScaleBias_Flat_NCHW cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<CHANNELS_FIRST=1>,<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at Generic.compute(26): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=12065 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/Generic.compute kernel=InstanceNormTail_Loop_NCHW cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<CHANNELS_FIRST=1>,<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at Generic.compute(26): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=12065 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/Generic.compute kernel=Copy_NCHW cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<CHANNELS_FIRST=1>,<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at Generic.compute(26): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=72887 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/Dense.compute kernel=Dense_Tilled2x2_Cached cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at Dense.compute(14): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=11921 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/Broadcast.compute kernel=BroadcastDiv_NHWC cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<CHANNELS_FIRST=0>,<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at Broadcast.compute(33): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=11921 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/Broadcast.compute kernel=BroadcastMin_NHWC cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<CHANNELS_FIRST=0>,<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at Broadcast.compute(33): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=11921 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/Broadcast.compute kernel=BroadcastGreaterEqual_NHWC cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<CHANNELS_FIRST=0>,<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at Broadcast.compute(33): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=11921 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/Broadcast.compute kernel=BroadcastLogicalOr_NHWC cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<CHANNELS_FIRST=0>,<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at Broadcast.compute(33): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=79184 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/Conv.compute kernel=Conv2DKernelKxK_T16x16_R4x4_NCHW cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<CHANNELS_FIRST=1>,<BLOCK_SIZE=4>,<SUFFIX=KernelKxK_T16x16_R>,<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at Conv.compute(50): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=79184 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/Conv.compute kernel=Conv2DKernelKxK_StrictC4StrictK16_T2x32_R8x8_NHWC cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<CHANNELS_FIRST=0>,<BLOCK_SIZE=8>,<KERNEL_PER_TG=16>,<STRICT_CHANNELS=1>,<SUFFIX=KernelKxK_StrictC4StrictK16_T2x32_R>,<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at Conv.compute(50): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=79184 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/Conv.compute kernel=Conv2DTrans_NHWC cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<CHANNELS_FIRST=0>,<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at Conv.compute(50): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=79184 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/Conv.compute kernel=Conv2DWinograd_2x2_3x3_NHWC cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<CHANNELS_FIRST=0>,<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at Conv.compute(50): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=18269 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/Pool.compute kernel=AvgPool2D_NCHW cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<CHANNELS_FIRST=1>,<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at Pool.compute(17): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=18269 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/Pool.compute kernel=GlobalAvgPool2D_NCHW cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<CHANNELS_FIRST=1>,<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at Pool.compute(17): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=18269 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/Pool.compute kernel=GlobalMaxPool2D_NCHW cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<CHANNELS_FIRST=1>,<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at Pool.compute(17): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=66564 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/BarracudaReferenceImpl.compute kernel=DepthwiseConv2D_NCHW cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<CHANNELS_FIRST=1>,<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at BarracudaReferenceImpl.compute(156): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=66564 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/BarracudaReferenceImpl.compute kernel=ResampleBilinear2D_NCHW cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<CHANNELS_FIRST=1>,<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at BarracudaReferenceImpl.compute(156): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=66564 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/BarracudaReferenceImpl.compute kernel=Unstride2D_NCHW cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<CHANNELS_FIRST=1>,<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at BarracudaReferenceImpl.compute(156): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=66564 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/BarracudaReferenceImpl.compute kernel=Dropout_NHWC cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<CHANNELS_FIRST=0>,<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at BarracudaReferenceImpl.compute(156): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=66564 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/BarracudaReferenceImpl.compute kernel=Ceil_NHWC cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<CHANNELS_FIRST=0>,<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at BarracudaReferenceImpl.compute(156): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=66564 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/BarracudaReferenceImpl.compute kernel=Softmax_NHWC cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<CHANNELS_FIRST=0>,<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at BarracudaReferenceImpl.compute(156): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=66564 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/BarracudaReferenceImpl.compute kernel=Relu6_NHWC cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<CHANNELS_FIRST=0>,<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at BarracudaReferenceImpl.compute(156): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=66564 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/BarracudaReferenceImpl.compute kernel=Selu_NHWC cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<CHANNELS_FIRST=0>,<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at BarracudaReferenceImpl.compute(156): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=66564 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/BarracudaReferenceImpl.compute kernel=Pow_NHWC cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<CHANNELS_FIRST=0>,<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at BarracudaReferenceImpl.compute(156): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=66564 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/BarracudaReferenceImpl.compute kernel=BroadcastAdd_NCHW cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<CHANNELS_FIRST=1>,<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at BarracudaReferenceImpl.compute(156): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=66564 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/BarracudaReferenceImpl.compute kernel=BroadcastPow_NCHW cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<CHANNELS_FIRST=1>,<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at BarracudaReferenceImpl.compute(156): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=66564 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/BarracudaReferenceImpl.compute kernel=BroadcastGreater_NCHW cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<CHANNELS_FIRST=1>,<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at BarracudaReferenceImpl.compute(156): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=66564 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/BarracudaReferenceImpl.compute kernel=BroadcastEqual_NCHW cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<CHANNELS_FIRST=1>,<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at BarracudaReferenceImpl.compute(156): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=66564 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/BarracudaReferenceImpl.compute kernel=LogicalNot_NCHW cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<CHANNELS_FIRST=1>,<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at BarracudaReferenceImpl.compute(156): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=66564 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/BarracudaReferenceImpl.compute kernel=ReduceMean_NCHW cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<CHANNELS_FIRST=1>,<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at BarracudaReferenceImpl.compute(156): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=66564 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/BarracudaReferenceImpl.compute kernel=TensorToTexture3DLUT_NCHW cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<SUFFIX=3DLUT>,<APPLY_3D_LUT=1>,<CHANNELS_FIRST=1>,<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at BarracudaReferenceImpl.compute(156): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=66564 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/BarracudaReferenceImpl.compute kernel=Pad2DSymmetric_NCHW cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<CHANNELS_FIRST=1>,<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at BarracudaReferenceImpl.compute(156): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=66564 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/BarracudaReferenceImpl.compute kernel=Expand_NCHW cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<CHANNELS_FIRST=1>,<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at BarracudaReferenceImpl.compute(156): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=4426 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/Pad.compute kernel=Pad2DEdge_NCHW cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<CHANNELS_FIRST=1>,<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at Pad.compute(9): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=33853 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/Activation.compute kernel=Ceil_FlatStrict cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at Activation.compute(173): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=33853 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/Activation.compute kernel=Relu_FlatStrict cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at Activation.compute(173): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=33853 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/Activation.compute kernel=Tanh_Flat cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at Activation.compute(173): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=33853 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/Activation.compute kernel=Sigmoid_Loop cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at Activation.compute(173): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=33853 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/Activation.compute kernel=Exp_FlatStrict cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at Activation.compute(173): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=33853 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/Activation.compute kernel=Pow_Flat cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at Activation.compute(173): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=33853 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/Activation.compute kernel=Clip_Loop cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at Activation.compute(173): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=33853 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/Activation.compute kernel=Relu6_NCHW cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<CHANNELS_FIRST=1>,<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at Activation.compute(173): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=33853 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/Activation.compute kernel=Swish_NHWC cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<CHANNELS_FIRST=0>,<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at Activation.compute(173): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=33853 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/Activation.compute kernel=Elu_NHWC cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<CHANNELS_FIRST=0>,<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at Activation.compute(173): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=33853 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/Activation.compute kernel=Exp_NHWC cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<CHANNELS_FIRST=0>,<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at Activation.compute(173): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=33853 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/Activation.compute kernel=Sqrt_NHWC cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<CHANNELS_FIRST=0>,<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at Activation.compute(173): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=33853 file=C:/Users/hem31/Desktop/car_game_fiverr/Library/PackageCache/com.unity.barracuda@1.0.4/Barracuda/Runtime/Core/Resources/Activation.compute kernel=Softmax_NHWC cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=19 km=<CHANNELS_FIRST=0>,<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=0 forceDXC=0 forceFXC=0  error: 2 plat 25 at Activation.compute(173): Couldn't open include file 'Tensor.cginc'.
+ ok=0 outsize=0
+
+Cmd: shutdown
+
+Quitting shader compiler process
