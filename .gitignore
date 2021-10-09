@@ -58,3 +58,15 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+
+car_game_fiver/.vsconfig
+
+car_game_fiver/Library/
+
+car_game_fiver/Logs/
+
+car_game_fiver/Temp/
+
+car_game_fiver/UserSettings/
+
+car_game_fiver/InitCodeMarker
